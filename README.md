@@ -7,5 +7,5 @@
 - I know
   * Python
   * C
-  * Javascript
+  * Javascript / Typescript
   * Ruby
